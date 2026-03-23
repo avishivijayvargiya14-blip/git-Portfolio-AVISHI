@@ -1,7 +1,0 @@
-{
-  "name": "my portfolio",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "mkdir -p .output && cp *.html .output/index.html"
-  }
-}
